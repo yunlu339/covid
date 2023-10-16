@@ -1,4 +1,4 @@
-# racist_naming_covid
+# Introduction
 The files are the data and codes for the article "Disease, Scapegoating, and Social Contexts: Examining the Social Contexts of the Support for Racist Naming of COVID-19 on Twitter" (https://doi.org/10.1177/00221465231194355).
 
 
